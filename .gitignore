@@ -1,0 +1,13 @@
+# Ambientes virtuais
+venv/
+.env
+__pycache__/
+*.pyc
+
+# Ignorar dados crus muito grandes (Opcional, mas boa prática)
+# data/raw/*.csv
+
+# Ferramentas e IDEs
+.vscode/
+.idea/
+.ipynb_checkpoints/
